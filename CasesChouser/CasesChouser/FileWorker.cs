@@ -25,8 +25,8 @@ namespace CasesChouser
             if (fileLines.Count < numberOfLines)  
                 numberOfLines = fileLines.Count;
 
-            string pattern = ".txt";
-            string target = "_res.txt";
+            const string pattern = ".txt";
+            const string target = "_res.txt";
             Regex regex = new Regex(pattern);
             string pathToNewFile = regex.Replace(pathToFile, target);
 
