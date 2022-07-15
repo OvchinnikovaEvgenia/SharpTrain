@@ -1,0 +1,15 @@
+D:\train\SharpTrain\CasesChouser\CasesChouser\bin\Debug\net6.0\CasesSelector.exe
+D:\train\SharpTrain\CasesChouser\CasesChouser\bin\Debug\net6.0\CasesSelector.deps.json
+D:\train\SharpTrain\CasesChouser\CasesChouser\bin\Debug\net6.0\CasesSelector.runtimeconfig.json
+D:\train\SharpTrain\CasesChouser\CasesChouser\bin\Debug\net6.0\CasesSelector.dll
+D:\train\SharpTrain\CasesChouser\CasesChouser\bin\Debug\net6.0\CasesSelector.pdb
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\CasesSelector.csproj.AssemblyReference.cache
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\CasesSelector.GeneratedMSBuildEditorConfig.editorconfig
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\CasesSelector.AssemblyInfoInputs.cache
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\CasesSelector.AssemblyInfo.cs
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\CasesSelector.csproj.CoreCompileInputs.cache
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\CasesSelector.dll
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\refint\CasesSelector.dll
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\CasesSelector.pdb
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\CasesSelector.genruntimeconfig.cache
+D:\train\SharpTrain\CasesChouser\CasesChouser\obj\Debug\net6.0\ref\CasesSelector.dll

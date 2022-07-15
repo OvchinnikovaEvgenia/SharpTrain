@@ -1,0 +1,15 @@
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\bin\Debug\net6.0\ArrayDifference.exe
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\bin\Debug\net6.0\ArrayDifference.deps.json
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\bin\Debug\net6.0\ArrayDifference.runtimeconfig.json
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\bin\Debug\net6.0\ArrayDifference.dll
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\bin\Debug\net6.0\ArrayDifference.pdb
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\ArrayDifference.csproj.AssemblyReference.cache
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\ArrayDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\ArrayDifference.AssemblyInfoInputs.cache
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\ArrayDifference.AssemblyInfo.cs
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\ArrayDifference.csproj.CoreCompileInputs.cache
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\ArrayDifference.dll
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\refint\ArrayDifference.dll
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\ArrayDifference.pdb
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\ArrayDifference.genruntimeconfig.cache
+D:\train\SharpTrain\ArrayDifference\ArrayDifference\obj\Debug\net6.0\ref\ArrayDifference.dll

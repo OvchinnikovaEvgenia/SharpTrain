@@ -1,0 +1,15 @@
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\FreshFiles.exe
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\FreshFiles.deps.json
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\FreshFiles.runtimeconfig.json
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\FreshFiles.dll
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\FreshFiles.pdb
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\FreshFiles.csproj.AssemblyReference.cache
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\FreshFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\FreshFiles.AssemblyInfoInputs.cache
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\FreshFiles.AssemblyInfo.cs
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\FreshFiles.csproj.CoreCompileInputs.cache
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\FreshFiles.dll
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\FreshFiles.dll
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\FreshFiles.pdb
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\FreshFiles.genruntimeconfig.cache
+D:\train\SharpTrain\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\FreshFiles.dll
