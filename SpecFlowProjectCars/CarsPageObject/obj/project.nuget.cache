@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rCNZWDj8J0FFNkk5AfoC/b/4EJYCZMhoz3KO3d+sMGJ7wc+k4aHS4mw7LzwKz6xECEFKymvkO2Rb0g9DYvN0pQ==",
+  "success": true,
+  "projectFilePath": "D:\\train\\SharpTrain\\SpecFlowProjectCars\\CarsPageObject\\CarsPageObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows10\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Windows10\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\Windows10\\.nuget\\packages\\selenium.support\\4.3.0\\selenium.support.4.3.0.nupkg.sha512",
+    "C:\\Users\\Windows10\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\Windows10\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

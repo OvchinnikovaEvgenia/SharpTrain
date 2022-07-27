@@ -1,0 +1,12 @@
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\obj\Debug\net6.0\CarsPageObject.csproj.AssemblyReference.cache
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\obj\Debug\net6.0\CarsPageObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\obj\Debug\net6.0\CarsPageObject.AssemblyInfoInputs.cache
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\obj\Debug\net6.0\CarsPageObject.AssemblyInfo.cs
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\obj\Debug\net6.0\CarsPageObject.csproj.CoreCompileInputs.cache
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\bin\Debug\net6.0\CarsPageObject.deps.json
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\bin\Debug\net6.0\CarsPageObject.dll
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\bin\Debug\net6.0\CarsPageObject.pdb
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\obj\Debug\net6.0\CarsPageObject.dll
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\obj\Debug\net6.0\refint\CarsPageObject.dll
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\obj\Debug\net6.0\CarsPageObject.pdb
+D:\train\SharpTrain\SpecFlowProjectCars\CarsPageObject\obj\Debug\net6.0\ref\CarsPageObject.dll
