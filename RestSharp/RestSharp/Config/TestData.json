@@ -1,0 +1,15 @@
+{
+  "testData": [
+    {
+      "sec_id": 99,
+      "sec_userId": 10,
+      "third_id": 150,
+      "forth_userId": 1,
+      "fifth_id": 5,
+      "baseUrl": "https://jsonplaceholder.typicode.com",
+      "emptyBody": "{}"
+
+    }
+  ]
+
+}
